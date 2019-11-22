@@ -2,9 +2,9 @@
 title: Home
 feature_text: |
   ## Josef Heel
-  Hardware and Software Designer, maker, electronics enthusiast
+  Hardware and Software Designer, Maker, Electronics Enthusiast
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "On my personal website, I show some of the projects I do, explain
+excerpt: "On this personal website, I show some of the projects I do, explain
 things I'm into and generally talk about stuff I find interesting."
 ---
 
