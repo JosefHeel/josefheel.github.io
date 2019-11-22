@@ -2,7 +2,7 @@
 title: About Me
 layout: page
 excerpt: "(to be created)"
-aside: true
+aside: false
 ---
 
-To be created...
+I am a student at university and so on and so on ...

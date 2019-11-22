@@ -2,12 +2,14 @@
 title: Home
 feature_text: |
   ## Josef Heel
-  My personal website and portfolio
+  Hardware and Software Designer, maker, electronics enthusiast
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "On my personal website, I show some of the projects I do, explain
+things I'm into and generally talk about stuff I find interesting."
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it.
+Welcome to my website! Here I show some of the things I do and projects I
+pursue, as well as blogging some stuff I'm interested in.
 
 ## Under Construction
 
