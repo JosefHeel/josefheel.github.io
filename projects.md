@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: Projects
 layout: page
 excerpt: "(to be created)"
 aside: true
