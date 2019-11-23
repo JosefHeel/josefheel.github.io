@@ -1,8 +1,8 @@
 ---
 title: Home
 feature_text: |
-  ## Josef Heel
-  Hardware and Software Designer, Maker, Electronics Enthusiast
+  ## <font color='white'>Josef Heel 
+  Hardware and Software Designer, Maker, Electronics Enthusiast </font>
 feature_image: assets/banner.png
 excerpt: "On this personal website, I show some of the projects I do, explain
 things I'm into and generally talk about stuff I find interesting."
