@@ -4,7 +4,7 @@
       {% for page in paginator.posts %}
         {% if page.category%}
           {% capture categories %}
-              {% if page.category == "Projects"%}
+              {% if page.category%}
                   <span class="label  label--category"><a href="{{ site.baseurl }}/categories/#{{ category | downcase }}">{{ category }}</a></span>{% if forloop.last == false %},{% endif %}
 
 
