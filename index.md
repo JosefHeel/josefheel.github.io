@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Welcome!
 feature_text: |
   ## <font color='white'>Josef Heel </font>
   <font color='white'> Hardware and Software Designer, Maker, Electronics Enthusiast </font>
@@ -8,7 +8,7 @@ excerpt: "On this personal website, I show some of the projects I do, explain
 things I'm into and generally talk about stuff I find interesting."
 ---
 
-Welcome to my website! Here I show some of the things I do and projects I
+...to my website! Here I show some of the things I do and projects I
 pursue, as well as blogging some stuff I'm interested in.
 
 ## Under Construction
