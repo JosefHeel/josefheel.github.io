@@ -1,8 +1,9 @@
 ---
 title: Projects
-layout: blog
-excerpt: "(to be created)"
+layout: projects
+excerpt: "Here you can find some of my projects I've done"
 aside: true
 ---
 
-To be created...
+Here you can find some of my electronic, mechanical or other types of
+projects I've done.
