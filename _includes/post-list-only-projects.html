@@ -3,6 +3,8 @@
     <ul class="list  list--posts">
       {% for page in paginator.posts %}
       {% if page.categories %}
+      {% for category in page.categories %}
+      {% if category=='Projects'%}
         <li class="item  item--post">
           <article class="article  article--post">
 
@@ -12,6 +14,8 @@
 
           </article>
         </li>
+        {% endif%}
+        {% endfor%}
         {% endif %}
       {% endfor %}
     </ul>
