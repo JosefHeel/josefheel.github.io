@@ -1,6 +1,6 @@
 ---
 title: Projects
-layout: page
+layout: blog
 excerpt: "(to be created)"
 aside: true
 ---
