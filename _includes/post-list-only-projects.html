@@ -2,10 +2,9 @@
   <section class="section  typeset">
     <ul class="list  list--posts">
       {% for page in paginator.posts %}
-        {% if page.categories%}
+        {% if page.category%}
           {% capture categories %}
-            {% for category in page.categories %}
-              {% if category == "Projects"%}
+              {% if page.category == "Projects"%}
                   <span class="label  label--category"><a href="{{ site.baseurl }}/categories/#{{ category | downcase }}">{{ category }}</a></span>{% if forloop.last == false %},{% endif %}
 
 
@@ -19,7 +18,6 @@
                   </article>
                 </li>
               {%endif%}
-            {% endfor %}
           {% endcapture %}
         {% endif %}
       {% endfor %}
