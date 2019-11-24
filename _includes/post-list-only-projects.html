@@ -2,7 +2,7 @@
   <section class="section  typeset">
     <ul class="list  list--posts">
       {% for page in paginator.posts %}
-        {% if page.category%}
+        {% if page.category == "Projects"%}
           {% capture categories %}
                   <span class="label  label--category"><a href="{{ site.baseurl }}/categories/#{{ category | downcase }}">{{ category }}</a></span>{% if forloop.last == false %},{% endif %}
 
