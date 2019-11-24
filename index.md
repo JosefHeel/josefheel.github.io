@@ -5,7 +5,6 @@ feature_text: |
   <font color='white'> Hardware and Software Designer, Maker, Electronics Enthusiast </font>
 feature_image: assets/banner.png
 layout: blog
-collectionpage: posts
 excerpt: "On this personal website, I show some of the projects I do, explain
 things I'm into and generally talk about stuff I find interesting."
 ---
@@ -16,4 +15,4 @@ pursue, as well as blogging some stuff I'm interested in.
 ## Under Construction
 
 This site is under construction. I'm not sure how long it's gonna take!
-V0.13
+V0.15
