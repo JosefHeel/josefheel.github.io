@@ -12,11 +12,10 @@ money on the project, because it is quite old and also not the ideal CNC-machine
 
 Luckily, the documentation is still available. This card is able to do all sorts of complex motion operations such as jerk limitation, max-acceleration-limiting with look-ahead-feature, transformations between different coordinate systems, etc. etc. on 8 axis synchronously. So is quite a beast and certainly overkill for what we would like to do it.
 
-Unfortunately, ...
+(To be continued)
 
 
-![alt text][pmac_test_setup]
+![alt text](https://github.com/JosefHeel/josefheel.github.io/blob/master/assets/pmac.jpg)
 
-[pmac_test_setup]: https://github.com/JosefHeel/josefheel.github.io/tree/master/media/pmac.jpg "Test setup with Universal PMAC-lite"
 
 <!-- more -->
