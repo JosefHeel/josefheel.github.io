@@ -8,8 +8,14 @@ excerpt: "On this personal website, I show some of the projects I do, explain
 things I'm into and generally talk about stuff I find interesting."
 ---
 
-Welcome to my website! Here I show some of the things I do and projects I
-pursue, as well as blogging some stuff I'm interested in.
+Welcome to my personal website! With this web appearance, I would like to
+give you an insight in the things I am interested in and hence work on. As a
+hobby, I have always worked on some projects, be it mechanical, electrical or
+software. Some of the pieces I proudly present on this web page - so enjoy.
+
+> Work like hell, tell everyone everything you know, close a deal with a
+> handshake, and have fun.
+- Harold E. Edgerton, U.S. electrical engineer
 
 ## Under Construction
 
