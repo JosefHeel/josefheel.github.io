@@ -16,12 +16,12 @@ Luckily, the documentation is still available. This card is able to do all sorts
 
 
 
-![Universal PMAC test setup](_posts/pic/pmac.jpg)
-![Universal PMAC test setup](pic/pmac.jpg)
-![Universal PMAC test setup](../_posts/pic/pmac.jpg)
-![Universal PMAC test setup](../../_posts/pic/pmac.jpg)
-![Universal PMAC test setup](assets/pmac.jpg)
-![Universal PMAC test setup](../assets/pmac.jpg)
+![](_posts/pic/pmac.jpg)
+![](pic/pmac.jpg)
+![](../_posts/pic/pmac.jpg)
+![](../../_posts/pic/pmac.jpg)
+![](assets/pmac.jpg)
+![](../assets/pmac.jpg)
 
 
 <!-- more -->
