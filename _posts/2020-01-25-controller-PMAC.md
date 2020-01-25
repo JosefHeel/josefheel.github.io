@@ -16,7 +16,7 @@ Luckily, the documentation is still available. This card is able to do all sorts
 
 
 
-![](_posts/pic/pmac.jpg)
+![]({{site.url}}_posts/pic/pmac.jpg)
 ![](pic/pmac.jpg)
 ![](../_posts/pic/pmac.jpg)
 ![](../../_posts/pic/pmac.jpg)
