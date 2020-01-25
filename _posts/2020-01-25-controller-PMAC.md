@@ -15,7 +15,7 @@ Luckily, the documentation is still available. This card is able to do all sorts
 (To be continued)
 
 
-![alt text](https://github.com/JosefHeel/josefheel.github.io/blob/master/assets/pmac.jpg)
+![Test setup](./pic/pmac.jpg)
 
 
 <!-- more -->

@@ -1,7 +1,7 @@
 ---
 title: Home
 feature_text: |
-  ## <font color='white'>Josef Heel </font>
+  ## <font color='white'>Josef Heel</font>
   <font color='white'> Hardware and Software Designer, Maker, Electronics Enthusiast </font>
 feature_image: assets/banner.png
 excerpt: "On this personal website, I show some of the projects I do, explain
@@ -14,4 +14,4 @@ pursue, as well as blogging some stuff I'm interested in.
 ## Under Construction
 
 This site is under construction. I'm not sure how long it's gonna take!
-V0.18
+V0.19
