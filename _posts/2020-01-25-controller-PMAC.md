@@ -15,7 +15,7 @@ Luckily, the documentation is still available. This card is able to do all sorts
 (To be continued)
 
 
-![useful image]({{ site.url }}/pic/pmac.jpg)
 
+![Universal PMAC test setup](/pic/pmac.jpg)
 
 <!-- more -->
