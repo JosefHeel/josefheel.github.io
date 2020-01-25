@@ -14,4 +14,4 @@ pursue, as well as blogging some stuff I'm interested in.
 ## Under Construction
 
 This site is under construction. I'm not sure how long it's gonna take!
-V0.16
+V0.18
