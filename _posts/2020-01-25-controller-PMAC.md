@@ -16,6 +16,10 @@ Luckily, the documentation is still available. This card is able to do all sorts
 
 
 
+![Universal PMAC test setup](_posts/pic/pmac.jpg)
 ![Universal PMAC test setup](pic/pmac.jpg)
+![Universal PMAC test setup](../_posts/pic/pmac.jpg)
+![Universal PMAC test setup](../../_posts/pic/pmac.jpg)
+
 
 <!-- more -->
