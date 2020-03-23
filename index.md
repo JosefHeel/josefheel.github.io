@@ -16,7 +16,7 @@ thoughts, ideas, and other stuff - so enjoy.
 
 > Work like hell, tell everyone everything you know, close a deal with a
 > handshake, and have fun.
-> -<cite> Harold E. Edgerton, U.S. electrical engineer </cite>
+-<cite> Harold E. Edgerton, U.S. electrical engineer </cite>
 
 ## Under Construction
 
