@@ -3,7 +3,7 @@ title: Experiments with Universal PMAC-lite
 categories:
 - CNC
 excerpt: Experiments reusing the old control system from an industrial dispenser machine to repurpose it as a hobby CNC-machine.
-feature_image: "{{site.url}}assets/cnc_banner.jpg"
+feature_image: {{site.url}}assets/cnc_banner.jpg
 ---
 
 Recently, a friend of mine acquired quite a massive industrial dispenser machine or something similar, I am not 100% sure what it even did exactly. This machine was given to him for free, or, for the expense of bringing to his workshop, so to say, which is not so negligible.
