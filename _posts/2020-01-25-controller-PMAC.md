@@ -3,7 +3,7 @@ title: Reusing a Universal PMAC-lite
 categories:
 - CNC
 excerpt: Experiments reusing the old control system from an industrial dispenser machine to repurpose it as a hobby CNC-machine.
-feature_image: assets/cncbanner.png
+feature_image: /assets/cncbanner.png
 ---
 
 Recently, a friend of mine acquired quite a massive industrial dispenser machine or something similar, I am not 100% sure what it even did exactly. This machine was given to him for free, or, for the expense of bringing to his workshop, so to say, which is not so negligible.
@@ -15,7 +15,7 @@ Luckily, the documentation is still available. This card is able to do all sorts
 
 Luckily, when making a test connection via the RS232-Port, the card proved to still be working just fine! Unfortunately, however, when trying to read configuration registers, it became clear that the PMAC currently does not hold any configuration data (parameters of servos used, accelerations, pulses per revolution etc.). With about a thousand configuration parameters, re-calibrating everything seems just about impossible. So the only chance is to recover the original machine settings from the old control-PC, which does unfortunately not boot.
 
-![Test setup for RS232 interface to universal PMAC-lite]({{site.url}}assets/pic/pmac.jpg)
+![Test setup for RS232 interface to universal PMAC-lite](/assets/pic/pmac.jpg)
 
 My friend, however, managed to pull a complete image of the old harddrive, and, to our great relive, it did contain the full PMAC configuration! The file is sort of human-readable, but very long (approx 8.5k lines) and basically not commented. But remember, the only thing of interest was the machine configuration: axis setup, accelerations, PID-settings and such. And so the simplest thing do do was to remove all the motion control programs and just "shoot" the remaining file containing all I-Register settings to the PMAC via a terminal. And it worked, immediately!
 
