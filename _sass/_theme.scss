@@ -212,6 +212,14 @@ a .icon {
   }
 }
 
+/**
+ * Remove underline from links that contain pictures 
+ */
+a[href$=jpg], a[href$=jpeg], a[href$=jpe], a[href$=png], a[href$=gif] {
+	text-decoration: none;
+	border: 0 none;
+	}
+	
 .icon {
   vertical-align: middle;
   width: 1.1em;
