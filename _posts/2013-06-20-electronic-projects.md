@@ -9,6 +9,19 @@ feature_text: |
 feature_image: /assets/pic/div/electronic_banner.JPG
 aside: true
 ---
+#### High voltage capacitor bank
+Probably every electrical engineering student at some point has the desire to blow stuff up, be it the microcontroller he or she has spent hours on only to find out that the chip itself was broken or whatever. Generally, a good and very dangerous way is to charge a capacitor bank to a high voltage and discharge it through the victim. With 18 capacitors each rated 100uF/300V, all of them charged to maximum results in around 350 Joules. Not a bad bang for a start. Later, I upgraded to 24 capacitors.
+
+Now how to charge them? The easiest source for a couple of kilovolts is probably the transformer and voltage doubler out of an old microwave. Such a device is therefore assembled on a small board. The schematic is quite simple: the original charge pump just as it comes out of the microwave. A second diode is added to the output because we do not want the charge from the capacitor bank to flow back. In the microwave, this is not an issue because the magnetron does not store charge and therefore just operates pulsed.
+![Microwave transformer to charge capacitor bank](/assets/pic/div/hv_cascade_1.jpg)
+![Schematic of microwave transformer assembly](/assets/pic/div/hv_cascade_3.png)
+
+There is one more catch, however. When connecting the transformer to the empty capacitor bank, the fuse will instantly blow. Some sort of current limitation is needed, obviously. Now one could put a resistor in series with the high voltage supply, but where to get a high voltage resistor from etc. etc. It is much easier to put something in series with the primary side of the microwave transformer, which effectively does the same trick. A good and robust 230V load resistor? You guessed it, an electric kettle with a bit of water in it is just that. As long as it has got some water in it, you really do not need to worry about something overheating here.
+![Full setup with capacitors and water cooker as ballast](/assets/pic/div/hv_cascade_2.jpg)
+ With a piece of a 16mm2 flexible cable on a long PVC stick, one can close the loop and short the capacitor bank, which results in an extremely loud bang and easily vaporizes resistors, small capacitors, ICs, etc.
+
+ **A WORD OF CAUTION: This is only for educational purposes, do not try this yourself unless you really know what you are doing! It is very important to keep a strict protocol to always switch off, unplug and discharge (!!!) the capacitor bank before you even think about touching it.** 
+
 #### Software defined radio
 Having received a HAM license in 2013, I got interested in RF electronics. This little project is the implementation of a simple software defined radio using a direct-mixing approach with an 4-to-1 analog multiplexer, a so-called tayloe detector. The stereo channels of a PC sound card transfer the information to the "digital domain", where various free SDR-programs can be used to create waterfall diagrams and perform demodulation. The whole hardware is well described in [this article](https://www.arrl.org/files/file/Technology/tis/info/pdf/020708qex013.pdf). The individual modules are the tayloe-detector itself (bottom left PCB), the lowpass filter and amplifier (top left PCB), the clock generator (bottom right PCB) and the powersupply (top right).
 ![Software defined radio based on tayloe detector and soundcard interface](/assets/pic/div/sdr_1.JPG)
