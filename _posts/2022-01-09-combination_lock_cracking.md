@@ -5,7 +5,7 @@ categories:
 excerpt: Using the CNC router to brute-force all combinations of a combination lock.
 feature_text: |
   ##  <font color='white'> What else can you do with a CNC router? </font>
-feature_image: /assets/pic/cnc/cnc_banner.jpg
+feature_image: /assets/pic/cnc/cnc_banner.png
 aside: true
 ---
 
