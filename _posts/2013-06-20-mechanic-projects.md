@@ -6,7 +6,7 @@ categories:
 excerpt: A collection of smaller pieces of wood or metalwork.
 feature_text: |
   ##  <font color='white'> With no current flowing  </font>
-feature_image: /assets/pic/div/lathe_banner.JPG
+feature_image: /assets/pic/div/lathe_banner.jpg
 aside: true
 ---
 #### Introduction
@@ -43,6 +43,12 @@ Once and for eternity, the hairdryer found its place on the wall and will never 
 
 Finally, several items cluttering the top of the washing machine have their place now and will not fall off again.  
 ![A shelf over the washing machine](/assets/pic/div/shelf.jpg)
+
+#### Bicycle parts
+A friend needed some parts for the brake system of an old racing bike. This is what we came up with in an evening.
+![Bike parts separately](/assets/pic/div/bike_part_1.jpg)
+![Bike parts together](/assets/pic/div/bike_part_2.jpg)
+
 
 {% include button.html text="Drop me an Email" link="mailto:website.jheel@gmail.com" %}
 
