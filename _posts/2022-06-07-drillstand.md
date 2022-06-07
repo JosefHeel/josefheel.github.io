@@ -24,7 +24,7 @@ Front view of drillstand
 From the back
 
 ![Drillstand overall](/assets/pic/drillstand/ds3.jpg)
-Leaver mechanism with bearing block and linkage pieces
+Lever mechanism with bearing block and linkage pieces
 
 ![Drillstand overall](/assets/pic/drillstand/ds4.jpg)
 Drilling a home-etched PCB with it
