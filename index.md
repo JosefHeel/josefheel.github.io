@@ -25,4 +25,4 @@ In case you have any questions, feel free to
 
 {% include post-new.html %}
 
-Last updated: 15.02.2022
+Last updated: 07.06.2022
