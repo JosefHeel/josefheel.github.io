@@ -7,7 +7,7 @@ aside: false
 
 {% include figure.html image="/assets/pic/portrait.png" position="right" width="350" height="350" %}
 
-Hi! My name is Josef, I'm from Austria, and I like building stuff. At the moment, I in the final semester of my master's degree in electrical engineering at [Graz University of Technology](https://www.tugraz.at/home/). Prior to that, I attended the HTL (technical college) for Electronics and Computer Engineering in Innsbruck.
+Hi! My name is Josef, I'm from Austria, and I like like engineering! At the moment, I am in the final semester of my master's degree in electrical engineering at [Graz University of Technology](https://www.tugraz.at/home/). Prior to that, I attended the HTL (technical college) for Electronics and Computer Engineering in Innsbruck.
 
 Besides school, I worked at a startup designing custom energy metering solutions and did a couple of paid projects for other companies. For two years then, I was employed by another [startup](https://www.sloc.one/) doing hard- and software design, creating custom IoT-solutions. In the academic year 2020/2021, I was employed a student assistant at the [Institute of Microwave and Photonic Engineering (IHF)](https://www.tugraz.at/institute/ihf/home/) at TU Graz. Mainly the winter term 2021/22 but still ongoing, I am working on a master thesis project in cooperation with ams-OSRAM AG. See also on my [LinkedIn profile](https://www.linkedin.com/in/josefheel).
 
