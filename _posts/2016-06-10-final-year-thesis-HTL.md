@@ -13,7 +13,7 @@ The aim of this project is the development of a universal, practicable ARDF tran
 #### A comment
 This is the final year thesis at the technical college (HTL) which I did together with [Simon Kaufmann](https://www.simonkaufmann.org/). At first, we were a bit concerned that it was comprehensive enough for to a thesis as it is based on other's work and we only intended to do some modifications and updates to it. In the end, it turned out out much more sophisticated and tricky than we anticipated, as it is usually the case with those kind of projects. What was thought to be just a new revision turned into a completely new design in hard- and software. Thankfully, our supervisor spend many hours especially with me to figure out all sorts of issues and get this done in the end.  
 
-Find more information about this project [here](https://ardf.heka.or.at/).
+Find more information about this project [here](https://ardf.heka.or.at/) and download the thesis [here](/assets/diplomarbeit_htl.pdf) (in German).
 
 ![Complete ARDF transmitter board stack](/assets/pic/da/fox.png)
 
