@@ -10,7 +10,7 @@ things I'm into and generally talk about stuff I find interesting."
 aside: true
 ---
 
-Welcome to my personal website! With this appearance, I'd like to show you some things I do out of personal interest. It serves as an online portfolio as well as a "project diary".
+Welcome to my personal website! With this appearance, I'd like to show some personal projects and other things I find interesting. It serves as an online portfolio as well as a "project diary".
 
 Here you can expect to find articles about projects including analog and digital electronics, microcontrollers, RF experiments, mechanics and CNC-machines, woodworking and more. I also occasionally write a blog post if I run in something worth blogging about.
 
@@ -25,4 +25,4 @@ In case you have any questions, feel free to
 
 {% include post-new.html %}
 
-Last updated: 07.06.2022
+Last updated: 12.10.2024

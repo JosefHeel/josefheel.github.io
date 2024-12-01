@@ -81,7 +81,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Josef Heel" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Personal website of Josef Heel, electrical engineering student at Graz University of Technology." # Site description and default description, also used in jekyll-seo-tag
+description: "Personal website of Josef Heel, IC design PhD candidate at the University of Twente." # Site description and default description, also used in jekyll-seo-tag
 url: "https://www.josefheel.org/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/JosefHeel/josefheel.github.io.git"
