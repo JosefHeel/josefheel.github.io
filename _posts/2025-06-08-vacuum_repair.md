@@ -3,7 +3,7 @@ title: Repairing an ILIFE Model V7s Plus robotic vacuum cleaner (2-beep error)
 categories:
 - Electronics
 - Repairs
-excerpt: Repairing an ILIFE Model V7s Plus robotic vacuum cleaner that gives error messages
+excerpt: Repairing an ILIFE Model V7s Plus robotic vacuum cleaner that gives a two-beep error after turning it on (cliff sensor or bumper error). 
 feature_text: |
   ##  <font color='white'> Except this one thing, its perfectly fine ... </font>
 feature_image: /assets/pic/drillstand/ds_banner.jpg
