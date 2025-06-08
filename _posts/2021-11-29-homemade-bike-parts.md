@@ -2,6 +2,7 @@
 title: Homemade bicycle parts
 categories:
 - Mechanics
+- Repairs
 excerpt: Machining some parts for the brake of an old racing bicycle with a friend.
 feature_text: |
   ##  <font color='white'> a little machining to relax </font>

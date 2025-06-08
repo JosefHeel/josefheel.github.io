@@ -2,6 +2,7 @@
 title: CNC combination lock cracking
 categories:
 - Mechanics
+- Repairs
 excerpt: Using the CNC router to brute-force all combinations of a combination lock.
 feature_text: |
   ##  <font color='white'> What else can you do with a CNC router? </font>

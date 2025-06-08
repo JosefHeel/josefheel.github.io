@@ -109,6 +109,8 @@ navigation_header:
   url: /
 - title: Projects
   url: /projects/
+- title: Repairs
+  url: /repairs/
 - title: Blog
   url: /blog/
 - title: Categories

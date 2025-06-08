@@ -2,6 +2,7 @@
 title: Repairing a BOSCH AL 3640 CV battery charger
 categories:
 - Electronics
+- Repairs
 excerpt: Some instructions and information on how to repair a BOSCH AL 3640 CV charger device
 feature_text: |
   ##  <font color='white'> Except this one thing, its perfectly fine ... </font>
